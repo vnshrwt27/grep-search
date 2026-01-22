@@ -1,2 +1,2 @@
-#Grep Search Tool Made in Rust
+# Grep Search Tool Made in Rust
 
